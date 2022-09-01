@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amanchauhan2432@gmail.com**
 
-- 📄 Know about my experiences [https://amanchauhan2432.artstation.com/resume](https://amanchauhan2432.artstation.com/resume)
+- 📄 Know about my experiences [https://amanchauhan2432.itch.io](https://amanchauhan2432.itch.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
