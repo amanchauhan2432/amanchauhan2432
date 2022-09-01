@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/amanchauhan2432](All you need to see)
+- 👨‍💻 All of my projects are available at [linktr.ee/amanchauhan2432]
 
 - 💬 Ask me about **Game Development and Game Art**
 
 - 📫 How to reach me **amanchauhan2432@gmail.com**
 
-- 📄 Know about my experiences [https://amanchauhan2432.itch.io](Games)
+- 📄 Know about my experiences [https://amanchauhan2432.itch.io]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
