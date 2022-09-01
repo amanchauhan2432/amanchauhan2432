@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/amanchauhan2432](linktr.ee/amanchauhan2432)(All you need to see)
+- 👨‍💻 All of my projects are available at [linktr.ee/amanchauhan2432](All you need to see)
 
 - 💬 Ask me about **Game Development and Game Art**
 
