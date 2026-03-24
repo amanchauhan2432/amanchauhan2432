@@ -52,7 +52,7 @@ Focused on scalable gameplay systems, networking (EOS/Steam), and performance op
 
 ---
 
-### 🔹 Trapped Dine (Horror Puzzle)
+### 🔹 Trapped Dine (Horror Puzzle) [TrappedDine](https://github.com/amanchauhan2432/TrappedDine)
 - Narrative-driven gameplay with puzzle mechanics  
 - AI enemy behavior and player tracking system  
 - Immersive audio and scripted events  
